@@ -1,6 +1,6 @@
 # karate-grpc-example
 
-## How use?
+## How run it?
 
 - step1: Start `grpc-helloworld` server
 
